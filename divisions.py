@@ -12,3 +12,4 @@ def divisions(x,y):
 
 
 print(divisions(sys.argv[1],sys.argv[2]))
+#This fuction divide two arguments that the users typed on shell
